@@ -22,7 +22,10 @@ library
   -- other-extensions:
   build-depends:
     base >=4.8 && <4.9
+    , aeson
     , lens
+    , lens-aeson
+    , text
     , wreq
 
 
