@@ -25,6 +25,9 @@ library
     , aeson
     , lens
     , lens-aeson
+    , mtl
+    , resourcet
+    , transformers
     , text
     , wreq
 
